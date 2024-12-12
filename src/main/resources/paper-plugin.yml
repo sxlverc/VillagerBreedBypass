@@ -1,0 +1,5 @@
+name: VillagerBreedBypass
+version: '1.0'
+main: de.sxlverc.villagerBreedBypass.VillagerBreedBypass
+api-version: '1.21.1'
+authors: [ sxlverc ]
